@@ -1,10 +1,10 @@
-EDA Analysis on Hotel Booking Dataset
+**EDA Analysis on Hotel Booking Dataset**
 
-📌 Overview
+**📌Overview**
 
 This project explores hotel booking data to uncover insights into reservation patterns, cancellations, customer behavior, and pricing strategies. Using Exploratory Data Analysis (EDA), the goal is to help hotels optimize revenue, reduce cancellations, and improve customer satisfaction.
 
-🔍 Key Features
+**🔍Key Features**
 
 Data Preprocessing: Handling missing values, cleaning, and preparing the dataset.
 
@@ -12,7 +12,7 @@ Exploratory Analysis: Visualizations of booking ratios, cancellation trends, bus
 
 Correlation Analysis: Identifying relationships between features.
 
-Insights:
+**Insights:**
 
 37% of bookings were canceled.
 
@@ -22,7 +22,7 @@ Portugal had the highest cancellation rate among countries.
 
 Online travel agencies contributed the largest share of bookings.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Python (Pandas, NumPy)
 
@@ -30,7 +30,7 @@ Visualization: Matplotlib, Seaborn
 
 Environment: Jupyter Notebook
 
-📈 Outcomes
+**📈 Outcomes**
 
 Clear understanding of booking and cancellation trends.
 
@@ -38,7 +38,7 @@ Identification of customer segments and seasonal demand.
 
 Actionable insights for pricing optimization, demand forecasting, and customer retention strategies.
 
-📂 Dataset
+**📂 Dataset**
 
 The dataset includes ~119k records with features such as:
 
