@@ -1,5 +1,7 @@
 EDA Analysis on Hotel Booking Dataset
+
 📌 Overview
+
 This project explores hotel booking data to uncover insights into reservation patterns, cancellations, customer behavior, and pricing strategies. Using Exploratory Data Analysis (EDA), the goal is to help hotels optimize revenue, reduce cancellations, and improve customer satisfaction.
 
 🔍 Key Features
